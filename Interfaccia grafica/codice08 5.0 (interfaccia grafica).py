@@ -1,4 +1,4 @@
-#lavoro di Ippolito Gabriele, Avallone Enrico e Lastrucci Davide
+#lavoro di Avallone Enrico, Ippolito Gabriele e Lastrucci Davide
 
 #Il codice serve ad aprire o a generare dei grafici.
 #Nel caso si voglia generare un grafico casuale, basterà seguire le istruzioni dell'interfaccia.
