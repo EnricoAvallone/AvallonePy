@@ -84,6 +84,7 @@ class retta:
 
 valori_a_b_c = retta(input("\ninresisci il valore di a: "), input("inresisci il valore di b: "), input("inresisci il valore di c: "))
 
+
 print(valori_a_b_c.implicita())
 print(valori_a_b_c.esplicita())
 print(valori_a_b_c.coefficiente_angolare())
