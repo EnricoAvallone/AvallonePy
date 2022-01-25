@@ -100,5 +100,3 @@ print(valori_a_b_c.y(input("\ninserisci il valore della x = ")))
 print(valori_a_b_c.punti(input('\nfine range = ')))
 print("\n--------------------------------------------------------------\nadesso inserisci i valori dei coefficienti della seconda retta")
 print(valori_a_b_c.punti_intersezione(input("\ninresisci il valore di a2: "), input("inresisci il valore di b2: "), input("inresisci il valore di c2: ")))
-
-print("Hello World")
