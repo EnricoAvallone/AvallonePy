@@ -1,0 +1,75 @@
+{
+    "Carta da pacchi":"Carta";
+    "Cartoni di pizza senza residui di cibo":"Carta";
+    "cartoni di provenienza domestica (imballaggi di TV, computer, etc.)":"Carta";
+    "Cartoni per bevande":"Carta";
+    "Confezioni in carta e cartoncino per giocattoli e abbigliamento":"Carta";
+    "confezioni in tetrapak":"Carta";
+    "Quaderni, giornali, riviste, libri, fogli di carta" : "Carta";
+    "sacchetti di carta":"Carta";
+    "Scatole":"Carta";
+    "Scatole delle scarpe":"Carta";
+    "Scatole per alimenti (anche se contengono finestre di plastica)":"Carta";
+    
+    "Calze in nylon":"Indifferenziato";
+    "Carta fotografica":"Indifferenziato";
+    "CD, DVD, videocassette VHS, musicassette":"Indifferenziato";
+    "Cerotti":"Indifferenziato";
+    "Cocci di piatti in ceramica":"Indifferenziato";
+    "Cosmetici (rossetti, smalti, etc.)":"Indifferenziato";
+    "Guanti in lattice":"Indifferenziato";
+    "Lastre radiografiche":"Indifferenziato";
+    "Lettiere per animali domestici":"Indifferenziato";
+    "Mozziconi di sigaretta":"Indifferenziato";
+    "Occhiali":"Indifferenziato";
+    "Pannolini e assorbenti":"Indifferenziato";
+    "Penne, pennarelli":"Indifferenziato";
+    "Rasoi, accendini":"Indifferenziato";
+    "Sacchi dell'aspirapolvere":"Indifferenziato";
+    "Scontrini fiscali":"Indifferenziato";
+    "Spazzolini":"Indifferenziato";
+    "Stracci e spugne":"Indifferenziato";
+
+    "Barattoli in metallo per conserve alimentari":"Plastica";
+    "Bombolette spray non pericolose (non etichettate T e F)":"Plastica";
+    "Bottiglie in plastica":"Plastica";
+    "Caffettiere":"Plastica";
+    "Cassette in plastica":"Plastica";
+    "Chiavi, lucchetti e catene":"Plastica";
+    "Confezioni e vaschette in plastica o polistirolo per alimenti":"Plastica";
+    "Coperchi e fogli di alluminio":"Plastica";
+    "Flaconi in plastica":"Plastica";
+    "Grucce in plastica o ferro per abiti":"Plastica";
+    "Latte e lattine per olio":"Plastica";
+    "Lattine per bevande":"Plastica";
+    "Pellicole per alimenti":"Plastica";
+    "Pentole e padelle in metallo":"Plastica";
+    "Piatti e bicchieri in plastica (anche sporchi, purché svuotati)":"Plastica";
+    "Scatole in metallo":"Plastica";
+    "Tappi":"Plastica";
+    "Tubetti vuoti":"Plastica";
+    "Vaschette da forno":"Plastica";
+    "Posate in metallo":"Plastica";
+    "Piccoli manufatti in metallo":"Plastica";
+
+    "Alimenti avariati senza confezioni":"Umido";
+    "Avanzi di cucina e di cibo (eliminando i liquidi in eccesso)":"Umido";
+    "Cartoni di pizza con residui di cibo":"Umido";
+    "Cenere di legna":"Umido";
+    "Fazzoletti di carta unti (scottex, tovaglioli)":"Umido";
+    "Filtri di the e tisane":"Umido";
+    "Foglie, fiori e piante da appartamento":"Umido";
+    "Fondi di caffè e cialde in carta di caffè":"Umido";
+    "Gusci delle uova":"Umido";
+    "Gusci di frutti di mare":"Umido";
+    "Pane":"Umido";
+    "Segatura":"Umido";
+    "Terriccio dei travasi (piccole quantità)":"Umido";
+    "Verdure, avanzi e bucce di frutta":"Umido";
+
+    "Barattoli":"Vetro";
+    "Bottiglie":"Vetro";
+    "Bottigliette":"Vetro";
+    "Vasetti":"Vetro";
+    
+}
